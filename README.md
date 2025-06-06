@@ -1,4 +1,4 @@
-# AFE Coursework: Time Series Analysis of S&P 500, CPI, and 3-Month Treasury Bill Rate
+# Applied Financial Econometrics Coursework: Time Series Analysis of S&P 500, CPI, and 3-Month Treasury Bill Rate
 
 ## Overview
 
